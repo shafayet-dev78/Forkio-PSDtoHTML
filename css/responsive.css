@@ -1,0 +1,200 @@
+/***********************************
+* Responsive media queries code *
+************************************/
+/* Most of the Mobile Phone Code */
+@media ( min-width: 280px) and (max-width: 319px) {
+/* code start */
+.app-section .inner-app h1 {
+    font-size: 48px;
+}
+.app-section .inner-app h6 {
+    font-size: 16px;
+}
+.editor-section h1 {
+    font-size: 23px;
+    line-height: 33px;
+}
+.editor-section p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.feature-section .inner-feature h5 {
+    font-size: 15px;
+    line-height: 25px;
+}
+.feature-section h2 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.social-links .btn-groups .fa-brands {
+    margin-right: 10px;
+}
+.social-links .btn-groups .btn-light, .social-links .btn-groups .btn-primary, .social-links .btn-groups .btn-success {
+    font-size: 10px;
+    padding: 4px 10px;
+    margin-right: 7px;
+}
+.social-links ul li {
+    padding: 0 6px;
+    font-size: 8px;
+}
+.pricing-section h2 {
+    font-size: 22px;
+    line-height: 32px;
+    margin-bottom: 20px;
+}
+.pricing-section .price-box .price h1 {
+    font-size: 48px;
+}
+.pricing-section .down {
+	padding: 50px 30px 0;
+}
+.newsletter-section .inner-letter h2 {
+    font-size: 20px;
+    line-height: 30px;
+}
+.form-control {
+	font-size: 12px;
+}
+.newsletter-section h3 {
+    font-size: 22px;
+    line-height: 32px;
+}
+/* code end */
+}
+/* Most of the Mobile Phone Code */
+@media ( min-width: 320px) and (max-width: 480px) {
+/* code start */
+.app-section .inner-app h1 {
+  font-size: 44px;
+  line-height: 54px;
+}
+.app-section .inner-app h6 {
+  font-size: 16px;
+}
+.editor-section h1 {
+  font-size: 24px;
+  line-height: 32px;
+}
+.editor-section p {
+  font-size: 11px;
+  line-height: 20px;
+}
+.editor-section ul li {
+  font-size: 10px;
+  margin-left: 6px;
+}
+.feature-section .fluid {
+  width: 100%;
+}
+.feature-section .inner-feature h5 {
+  font-size: 16px;
+  line-height: 24px;
+}
+.feature-section .inner-feature p {
+  font-size: 12px;
+  line-height: 22px;
+}
+.feature-section h2 {
+  font-size: 26px;
+  line-height: 36px;
+}
+.strange-section .fluid img {
+  width: 70px;
+}
+.strange-section h5 {
+  font-size: 16px;
+  line-height: 22px;
+}
+.strange-section p {
+  font-size: 13px;
+  line-height: 21px;
+}
+.strange-section .owl-carousel .item h6 {
+  font-size: 12px;
+}
+.social-links .btn-groups .btn-light, .social-links .btn-groups .btn-success, .social-links .btn-groups .btn-primary {
+  font-size: 12px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  transition: 0.5s;
+  margin-right: 5px;
+}
+.social-links .btn-groups .fa-brands {
+  margin-right: 16px;
+}
+.social-links ul li {
+  padding: 0 5px;
+  font-size: 10px;
+}
+.pricing-section h2 {
+  font-size: 26px;
+  line-height: 34px;
+  margin-bottom: 30px;
+}
+.pricing-section .price-box .price-title h3 {
+  font-size: 18px;
+}
+.pricing-section .price-box .price h1 {
+  font-size: 44px;
+  line-height: 54px;
+}
+.pricing-section .down {
+  padding: 50px 30px 0;
+}
+.about-section h2 {
+  font-size: 24px;
+  line-height: 34px;
+}
+.newsletter-section .inner-letter h2 {
+  font-size: 24px;
+  line-height: 34px;
+}
+.newsletter-section .inner-letter .btn-info {
+  font-size: 10px;
+  margin-bottom: 0;
+  margin-top: 5px;
+}
+/* code end */
+}
+/* Most of the Mobile Phone and low-resolution Tablet Code */
+@media ( min-width: 481px) and (max-width: 767px) {
+/* code start */
+.social-links .btn-groups .btn-light {
+	margin-right: 14px;
+}
+.social-links ul li {
+    padding: 0 25px;
+}
+/* code end */
+}
+/* Most of the Tablet Phone and mini notebook Code */
+@media ( min-width: 768px) and (max-width: 1024px) {
+/* code start */
+.editor-section p {
+  font-size: 14px;
+  line-height: 24px;
+}
+.pricing-section .price-box .price-title h3 {
+  font-size: 16px;
+}
+.pricing-section .price-box .price h1 {
+  font-size: 40px;
+  line-height: 48px;
+}
+.pricing-section .price-box {
+  width: 100%;
+}
+.pricing-section .price-box .description p {
+  font-size: 12px;
+  line-height: 20px;
+}
+.newsletter-section h3 {
+  font-size: 24px;
+  line-height: 34px;
+}
+.footer-section p {
+  font-size: 11px;
+}
+/* code end */
+}
